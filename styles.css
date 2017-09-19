@@ -1,7 +1,8 @@
-<style>
-p {
-   background-color: green;
-   }
+
+p.center {
+          text-align: center;
+          color: red;
+        }
 h1 {
 
     background-color: lawngreen;
@@ -14,4 +15,3 @@ article {
         padding-bottom: 50px;
         padding-left: 80px;
         }
-</style>

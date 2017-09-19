@@ -3,6 +3,9 @@ p.center {
           text-align: center;
           color: red;
         }
+#info {
+    color: purple;
+}
 h1 {
 
     background-color: lawngreen;
